@@ -1,4 +1,4 @@
-// javascript shorthand methods 
+// javascript array shorthand methods 
 
 // forEach method
 let numbers = [1,2,3,4,5,6]
